@@ -15,7 +15,7 @@
 
 ## 🛠 Tech Stack
 
-- **Languages:** C++, Java, JavaScript  
+- **Languages:** C++, Java, JavaScript, DSA 
 - **Frameworks/Libraries:** React, Next.js, Tailwind CSS  
 - **Tools:** Git, GitHub, VS Code, Postman
 
@@ -39,6 +39,6 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=MohitAggarwal1104&color=green)
 
 <!---
-Manthan1104/Manthan1104 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mohit_Aggarwal1104/Mohit_Aggarwal1104 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
